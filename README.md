@@ -51,5 +51,4 @@
 <br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
-<br  />
 > *Also show some ❤️ by starring(⭐) inspiration behind the readme [BharatKammakatla](https://github.com/BharatKammakatla) !*
