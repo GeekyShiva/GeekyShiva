@@ -37,8 +37,8 @@
 **Languages I know:**
 
 <p align="left"><img height="" width="" alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;<img height="28" width="115" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />&nbsp;&nbsp;&nbsp;<img height="30" width="" alt="selenium" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img height="30" width="" alt="selenium" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img height="32" width="" alt="selenium" src="	https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img height="30" width="" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img height="32" width="" alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 
 **Stats:**
