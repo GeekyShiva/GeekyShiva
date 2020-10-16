@@ -44,9 +44,8 @@
 **Stats:**
 
 <a href="https://github.com/GeekyShiva">
-  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=GeekyShiva&show_icons=true&theme=dracula" alt="Bharat's github stats"/>
+  <img align="center" src="https://github-readme-stats.bharatkammakatla.vercel.app/api?username=GeekyShiva&show_icons=true&theme=dracula" alt="Shivang's github stats"/>
 </a>
-
 <br />
 <br />
 
