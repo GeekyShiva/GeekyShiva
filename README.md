@@ -21,8 +21,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on Human Computer Interaction.
-- 🌱 I’m currently learning Product Management.
+- 🔭 I’m currently working in Product Management.
+- 🌱 I’m currently learning Human Computer Interaction.
 - 👯 I’m looking to collaborate on Product Management and User Research projects.
 - 🤔 I’m looking for help with Product Strategy.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/particlepanda/), [Gmail](mailto:shivank1995@gmail.com)
